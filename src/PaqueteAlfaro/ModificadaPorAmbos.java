@@ -19,4 +19,7 @@ public class ModificadaPorAmbos {
     {
         System.out.println("Welcome to Guadalajara");
     }
+    public void mostrarDespedida() {
+        System.out.println("Bye Bye Guadalajara");
+    }
 }
