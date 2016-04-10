@@ -15,5 +15,8 @@ public class ModificadaPorAmbos {
     {
         
     }
-    
+    public void mostrarSaludo()
+    {
+        System.out.println("Welcome to Guadalajara");
+    }
 }
