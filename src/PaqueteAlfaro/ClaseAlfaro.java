@@ -20,4 +20,9 @@ public class ClaseAlfaro {
     {
         System.out.println("Hola, bienvenido al pozo");
     }
+    
+    public void mostrarDespedida()
+    {
+        System.out.println("Hasta la próxima, volverás pronto");
+    }
 }
