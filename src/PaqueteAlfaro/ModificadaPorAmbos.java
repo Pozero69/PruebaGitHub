@@ -21,6 +21,7 @@ public class ModificadaPorAmbos {
     }
     public void mostrarDespedida() {
         System.out.println("Bye Bye Guadalajara");
+    }
     public void mostrarDinero()
     {
         System.out.println("No tienes nada de dinero en la cuenta");
